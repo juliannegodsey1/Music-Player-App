@@ -30,3 +30,6 @@ This app allows users to play, pause, shuffle, and navigate through a playlist o
 - HTML
 - CSS
 
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
